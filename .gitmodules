@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nzffdr"]
+	path = nzffdr
+	url = https://github.com/flee598/nzffdr
+	shallow = true
+	registered = true
 [submodule "SBN"]
 	path = SBN
 	url = https://github.com/flee598/sbn

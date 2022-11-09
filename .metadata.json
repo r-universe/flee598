@@ -1,5 +1,9 @@
 [
   {
+    "package": "nzffdr",
+    "oncran": true
+  },
+  {
     "package": "SBN",
     "oncran": true
   }
