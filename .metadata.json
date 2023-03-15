@@ -1,10 +1,10 @@
 [
   {
-    "package": "SBN",
+    "package": "nzffdr",
     "oncran": true
   },
   {
-    "package": "nzffdr",
+    "package": "SBN",
     "oncran": true
   }
 ]
